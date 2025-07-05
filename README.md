@@ -1,3 +1,7 @@
+![Screenshot 2025-07-05 224128](https://github.com/user-attachments/assets/0dcad932-d397-4e22-8370-ce44158c73d4)
+![Screenshot 2025-07-05 224112](https://github.com/user-attachments/assets/5cfc44c9-aee1-4a50-9168-197adc07028a)
+![Screenshot 2025-07-05 224058](https://github.com/user-attachments/assets/0f42597c-57f8-4ea2-a261-58fe10544555)
+![Screenshot 2025-07-05 224041](https://github.com/user-attachments/assets/9b6fa16a-345f-43a1-bb39-c13b92dbec90)
 # E-Commerce Console Application in Java
 
 A console-based e-commerce simulation built with Java. This application demonstrates product handling, cart management, shipping logic, and customer checkout process.
