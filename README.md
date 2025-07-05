@@ -2,7 +2,7 @@
 
 A console-based e-commerce simulation built with Java. This application demonstrates product handling, cart management, shipping logic, and customer checkout process.
 
-## 📌 Features
+## Features
 
 * Define products with:
 
@@ -19,7 +19,7 @@ A console-based e-commerce simulation built with Java. This application demonstr
   4- Remaining customer balance
 * Shipping service processes all shippable items
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -34,7 +34,7 @@ src/
 └── DeliverableExample.java
 ```
 
-## 🚀 How to Run
+## Run it with me 
 
 1. Make sure you have Java 11+ installed
 
@@ -57,7 +57,7 @@ javac -d out *.java
 java -cp out DeliverableExample
 ```
 
-## 📦 Sample Output
+## The Output
 
 ```
 📦 Shipping the following items:
@@ -77,13 +77,13 @@ Total:            $430.00
 Customer Balance: $570.00
 ```
 
-## 📝 Assumptions
+## The Assumptions
 
 * Shipping fee is calculated as `$30` if total weight > 0
 * Expired items cannot be added to the cart
 * Cart quantities must not exceed product stock
 * Products with no expiration or shipping are valid
 
-## 📧 Contact
+##  Contact
 sohayla25520022@gmail.com
 01144596055
