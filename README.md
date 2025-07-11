@@ -64,13 +64,13 @@ java -cp out DeliverableExample
 ## The Output
 
 ```
-📦 Shipping the following items:
+Shipping the following items:
 - Cheese (0.20 kg)
 - Cheese (0.20 kg)
 - Biscuits (0.70 kg)
-🚚 Total Shipping Weight: 1.10 kg
+Total Shipping Weight: 1.10 kg
 
-🧾 CHECKOUT RECEIPT
+CHECKOUT RECEIPT
 - 2x Cheese       $200.00
 - 1x Biscuits     $150.00
 - 1x Mobile Scratch Card  $50.00
